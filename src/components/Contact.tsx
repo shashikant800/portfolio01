@@ -101,15 +101,15 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "keshavgupta86036@gmail.com",
-      link: "mailto:keshavgupta86036@gmail.com",
+      content: "shashi98_soe@jnu.ac.in",
+      link: "mailto:shashi98_soe@jnu.ac.in",
       color: "from-blue-500 to-cyan-500"
     },
     {
       icon: Phone,
       title: "Phone",
-      content: "+919996821315",
-      link: "tel:+919996821315",
+      content: "+916299599968",
+      link: "tel:+916299599968",
       color: "from-green-500 to-emerald-500"
     },
     {
@@ -124,14 +124,14 @@ const Contact = () => {
   const socialLinks = [
     {
       name: "GitHub",
-      url: "https://github.com/keshav2025",
+      url: "https://github.com/shashikant800",
       icon: Github,
       color: "hover:text-gray-800",
       description: "Check out my code"
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/keshavkumar13/",
+      url: "https://www.linkedin.com/in/shashi-kant-b83a44258/",
       icon: Linkedin,
       color: "hover:text-blue-600",
       description: "Let's connect professionally"
